@@ -1,0 +1,1 @@
+# yarn-plugin-vscode-vitest-extension-terminate
